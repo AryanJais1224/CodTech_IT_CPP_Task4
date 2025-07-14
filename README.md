@@ -1,1 +1,1 @@
-# CodTech_IT_CPP_Task4
+This C++ program parses and evaluates arithmetic expressions using the Shunting Yard algorithm and postfix evaluation, following BODMAS rules. It supports operators: +, -, *, /, ^, and parentheses.
